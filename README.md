@@ -2,6 +2,10 @@
 
 ---
 
+<p>
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white&style=flat" />
+</p>
+
 
 <!--
 **stroogle/stroogle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
