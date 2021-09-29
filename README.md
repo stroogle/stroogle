@@ -4,9 +4,9 @@
 
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white&style=flat" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=NestJS&logoColor=white&style=flat" />
-  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=NestJS&logoColor=white&style=flat" />
-  <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?logo=NestJS&logoColor=white&style=flat" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat" />
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat" />
 </p>
 
 
